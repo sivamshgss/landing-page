@@ -1,0 +1,21 @@
+.header {
+    color: white;
+    background-color: rgb(31, 41, 55);
+    display: flex;
+    padding: 10px 200px;
+    gap: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+    font-size: 24px;
+    margin-right: auto;
+    font-weight: 700;
+}
