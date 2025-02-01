@@ -19,3 +19,8 @@ body {
     margin-right: auto;
     font-weight: 700;
 }
+
+.header .link {
+    color: white;
+    text-decoration: none;
+}
