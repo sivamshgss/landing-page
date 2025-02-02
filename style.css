@@ -124,3 +124,21 @@ p {
     color: #797979;
     font-size: 14px;
 }
+
+.quotation {
+    background-color: #E5E7EB;
+    padding: 120px 280px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quote {
+    font-weight: 100;
+    font-size: 36px;
+}
+
+.author {
+    font-size: 24px;
+    text-align: end;
+    font-weight: bold;
+}
