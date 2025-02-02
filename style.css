@@ -26,6 +26,9 @@ p {
     margin: 0px;
 }
 
+
+/* header */
+
 .header {
     color: #F9FAF8;
     background-color: #1F2937;
@@ -40,6 +43,8 @@ p {
     margin-right: auto;
     font-weight: bold;
 }
+
+/* intro */
 
 .intro {
     background-color: #1F2937;
@@ -69,6 +74,8 @@ p {
 .intro button {
     border: none;
     align-self: baseline;
+    height: 25px;
+    width: 85px;
 }
 
 .intro .intro-pic {
@@ -83,6 +90,8 @@ p {
 .intro .intro-pic span {
     color: #E5E7EB;
 }
+
+/* information */
 
 .information {
     padding: 50px 300px;
@@ -125,6 +134,8 @@ p {
     font-size: 14px;
 }
 
+/* quotation */
+
 .quotation {
     background-color: #E5E7EB;
     padding: 120px 280px;
@@ -141,4 +152,34 @@ p {
     font-size: 24px;
     text-align: end;
     font-weight: bold;
+}
+
+/* action */
+
+.action {
+    padding: 100px 200px;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    padding: 50px 120px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.call {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.message {
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.sign-up button {
+    border: white solid;
+    height: 35px;
+    width: 90px;
 }
